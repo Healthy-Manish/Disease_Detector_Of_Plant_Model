@@ -58,7 +58,7 @@ To set up the project locally, follow these steps:
 6. **Run the Application:**
 
     ```bash
-    streamlit run app.py
+    streamlit run main/app.py
     ```
 
 ## Usage
