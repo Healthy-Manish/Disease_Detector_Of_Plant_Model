@@ -2,14 +2,16 @@
 
 ## Description
 In this project I have trained a model with a dataset that contain multiple images of different plant diseases and trained a Neural Network over that dataset. 
-I have taken that dataset from kaggle
-Link of Dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
-This application is build over streamlit to create a frontend 
+I have taken that dataset from kaggle<br>
+Link of Dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset<br>
+# This application is build over streamlit to create a frontend <br>
 <img src="app/Screenshot from 2024-08-31 13-39-08.png"></img>
 
 
-Train the model and save it in app folder in a directory of trained_model with the name of "plant_disease_model.h5".
-# Try to use GPU , I have used google collab to train this model .
+# Train the model and save it in app folder in a directory of trained_model with the name of "plant_disease_model.h5" 
+<br>
+Try to use GPU , I have used google collab to train this model
+<br>
 
 ## Installation
 
@@ -61,8 +63,6 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-Provide details on how to use your application.
+This project is very useful to identify disease that can happen to diffrent species of plants and fruits and can help farmers to take precautions and can take help of agriculuture experts to rectify disease.
 
-## License
 
-Include license information here.
