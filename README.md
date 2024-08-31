@@ -8,7 +8,7 @@ Link of Dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dat
 <img src="app/Screenshot from 2024-08-31 13-39-08.png"></img>
 
 
-# Train the model and save it in app folder in a directory of trained_model with the name of "plant_disease_model.h5" 
+<h3> Train the model and save it in app folder in a directory of trained_model with the name of "plant_disease_model.h5" 
 <br>
 Try to use GPU , I have used google collab to train this model
 <br>
